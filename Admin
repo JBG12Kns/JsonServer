@@ -1,1 +1,4 @@
-
+{
+  "id1": 1, "Utilizador1": "JD", "Password1": 123,
+  "id2": 2, "Utilizador2": "JJD", "Password2": 456,
+  "id3": 3, "Utilizador3": "ORA", "Password3": 789}
